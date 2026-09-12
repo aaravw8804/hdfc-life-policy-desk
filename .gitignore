@@ -1,0 +1,7 @@
+target/
+.idea/
+*.class
+.env
+src/main/resources/application-prod.yml.local
+*.iml
+.DS_Store

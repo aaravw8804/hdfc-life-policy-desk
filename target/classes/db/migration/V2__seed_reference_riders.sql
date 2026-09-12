@@ -1,3 +1,0 @@
-INSERT INTO riders (code, name) VALUES ('ACCIDENT_COVER', 'Accident Cover');
-INSERT INTO riders (code, name) VALUES ('CRITICAL_ILLNESS', 'Critical Illness');
-INSERT INTO riders (code, name) VALUES ('WAIVER_OF_PREMIUM', 'Waiver of Premium');
