@@ -1,6 +1,6 @@
 # HDFC Life Policy Desk API
 
-A Spring Boot 3 / Java 17 REST API for HDFC Life policies and claims. Policy and
+A Spring Boot 3 / Java 25 REST API for HDFC Life policies and claims. Policy and
 claim data live in an in-memory store (`PolicyStore` / `InMemoryPolicyStore`);
 Flyway owns the relational schema (`customers`, `policies`, `claims`, `riders`,
 `policy_riders`) so the database is always ready to receive real data later.
